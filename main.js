@@ -3,13 +3,13 @@ const client = new Discord.Client();
 
 let config = require('./config.json')
 
-let Token = config.BOT_TOKEN;
+let Token = config.MTEyOTQyNTk4MjI3MzYzMDIwOA.GBFgin.t8FtqgefbmWYFIiqx4p6RB-9fpY_ar-q75gUWs;
 
-let prefix = config.Prefix;
+let prefix = config.-;
 
-let owners = config.owners;
+let owners = config.1059920905469440031;
 
-let timeS = config.Time
+let timeS = config.5000
 
 client.on("ready", () => {
 
